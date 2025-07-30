@@ -17,7 +17,7 @@ let charadex = {};
 charadex.site = {
   title: "Anomalith",
   url: "https://anomalith.github.io/Anomalith/",
-  description: `A tool for organizing small ARPGs and species.`
+  description: `A closed species about gargoyles and harpies combined into one, mixed with temporal anomalies and elemental powers.`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "2014536518",
 
   pages: {
     masterlist:    "masterlist",
@@ -43,11 +43,11 @@ charadex.sheet = {
   options: {
 
     designTypes: ['All', 'Official Design', 'Guest Design', 'MYO Slot', 'MYO Design'],
-    statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased'],
-    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Very Rare', 'Legendary'],
-    species: ['All', 'Dog', 'Cat', 'Bunny'],
+    statuses: ['All', 'Resell', 'Trade', 'Gift', 'Voided', 'For Sale', 'Purchased', 'FTO Slot', 'Beta Slot', 'Launch Slot', 'Staff Slot', 'Affiliate Slot'],
+    rarity: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Crossbreed'],
+    species: ['All', 'Common', 'Uncommon', 'Rare', 'Legendary', 'Premade', 'NPC', 'Hatchling', 'Crossbreed'],
     itemTypes: ['All', 'Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
-    traitTypes: ['All', 'Ears', 'Eyes', 'Body', 'Limbs', 'Tails', 'Misc', 'Mutations']
+    traitTypes: ['All', 'Required', 'Horns', 'Hide', 'Limbs', 'Ears', 'Soul Essence', 'Wings', 'Masks', 'Cosmetic']
 
   }
 
